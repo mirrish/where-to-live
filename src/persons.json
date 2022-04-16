@@ -1,0 +1,12 @@
+[
+  {
+    "id": "Alma",
+    "weight": 4,
+    "location": "Växjö"
+  },
+  {
+    "id": "Noah",
+    "weight": 7,
+    "location": "Göteborg"
+  }
+]
